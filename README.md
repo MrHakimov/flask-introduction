@@ -22,4 +22,5 @@ python3 app.py
 ```
 
 This is how application should look like:
+
 ![There should be an image...](https://github.com/MrHakimov/flask-introduction/blob/master/static/img/image.png)
