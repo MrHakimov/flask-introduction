@@ -31,10 +31,11 @@ Before running this command download repo, unarchive, go to the directory, where
 After you finish the work hit `Ctrl + C` and then run command
 
 ```bash
-docker-compse down
+docker-compose down
 ```
-
 which will stop and remove containers.
+
+
 
 This is how application should look like:
 
