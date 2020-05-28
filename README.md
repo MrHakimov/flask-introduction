@@ -11,9 +11,9 @@ After finishing the coding part in `app.py` go to the folder of the project and 
 
 ```bash
 python3 # will run Python 3 interpreter
-from app import db
-db.create_all()
-exit()
+>> from app import db
+>> db.create_all()
+>> exit()
 ```
 
 and then run the application:
