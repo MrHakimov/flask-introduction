@@ -21,6 +21,21 @@ and then run the application:
 python3 app.py
 ```
 
+**UPD.** I added docker-compose.yml, which means that you can run application by single command:
+```bash
+docker-compose up
+```
+
+Before running this command download repo, unarchive, go to the directory, where repo is extracted and then run the upper command.
+
+After you finish the work hit `Ctrl + C` and then run command
+
+```bash
+docker-compse down
+```
+
+which will stop and remove containers.
+
 This is how application should look like:
 
 ![There should be an image...](https://github.com/MrHakimov/flask-introduction/blob/master/static/img/image.png)
