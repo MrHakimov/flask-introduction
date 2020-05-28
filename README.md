@@ -21,6 +21,8 @@ and then run the application:
 python3 app.py
 ```
 
+---
+
 **UPD.** I added docker-compose.yml, which means that you can run application by single command:
 ```bash
 docker-compose up
@@ -35,7 +37,7 @@ docker-compose down
 ```
 which will stop and remove containers.
 
-
+---
 
 This is how application should look like:
 
